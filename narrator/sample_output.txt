@@ -1,0 +1,8 @@
+Situation
+Total raw revenue reported was ₹99,860.20. After a rigorous data cleansing process, we identified a system anomaly leading to double-submitted orders. Removing these duplicates created a reconciliation delta of ₹2,501.90, resulting in a verified, cleaned total revenue of ₹97,358.30. Furthermore, removing anomalous bulk orders (quantity outliers) shifted our understanding of demand, revealing that March was our true peak month driving ₹20,318.90 in revenue, correcting the inflated perspective that January was leading.
+
+Complication
+The core threat to our operating margin lies in return rates, which are highly skewed by payment method. Analysis proves that Cash on Delivery (COD) carries a massive return rate of 44.4%, drastically outperforming CARD (14.7%) and UPI (18.9%). The complication compounds when geolocated: our highest-risk segment is Tier-2 cities utilizing COD, which spikes to a staggering 54.5% return rate.
+
+Resolution
+To protect margins, leadership must take immediate action on Tier-2 COD dependencies. We recommend implementing strict verification steps or nominal convenience fees for COD orders targeting Tier-2 cities to suppress the 54.5% return leakage. Marketing should pivot to heavily incentivize prepaid methods like UPI and CARD, focusing peak promotion drives to mimic the genuine organic success seen in March (₹20,318.90).
